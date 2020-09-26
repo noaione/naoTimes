@@ -1,9 +1,9 @@
 <h1 id="mulai-dari-sini" style="color:#c8c8c8;" align="center">
     naoTimes
 </h1>
-<p align="center"><b>versi 2.0.0</b><br>Bot berbahasa Indonesia untuk membantu tracking garapan fansubber.</p>
+<p align="center"><b>versi 2.0.1a</b><br>Bot berbahasa Indonesia untuk membantu tracking garapan fansubber.</p>
 <p align="center">Prefix: <b>!</b><br/>Bantuan: <b>!help</b></p>
-<p align="center"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fs.ihateani.me%2Fshield%2Fserver" data-origin="https://img.shields.io/endpoint?url=https%3A%2F%2Fs.ihateani.me%2Fshield%2Fserver" alt="Guilds"> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fs.ihateani.me%2Fshield%2Fpengguna" data-origin="https://img.shields.io/endpoint?url=https%3A%2F%2Fs.ihateani.me%2Fshield%2Fpengguna" alt="Users"> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fs.ihateani.me%2Fshield%2Fperintah" data-origin="https://img.shields.io/endpoint?url=https%3A%2F%2Fs.ihateani.me%2Fshield%2Fperintah" alt="Commands"></p>
+<p align="center"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.ihateani.me%2Fshield%2Fserver" data-origin="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.ihateani.me%2Fshield%2Fserver" alt="Guilds"> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.ihateani.me%2Fshield%2Fpengguna" data-origin="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.ihateani.me%2Fshield%2Fpengguna" alt="Users"> <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.ihateani.me%2Fshield%2Fperintah" data-origin="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.ihateani.me%2Fshield%2Fperintah" alt="Commands"></p>
 
 <p align="center">
 	<a href="#informasi">Informasi</a> •
