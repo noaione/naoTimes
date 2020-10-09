@@ -6,7 +6,7 @@
 
 > Bot berbahasa Indonesia untuk membantu tracking garapan fansubber.
 
-[Invite](https://ihateani.me/andfansub)
+[Invite](/invite)
 [Dokumentasi](#mulai-dari-sini)
 
 ![color](#282828)
