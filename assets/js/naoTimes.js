@@ -12,7 +12,7 @@ function nT_json_data(response) {
 
 function naoTimesProcess(disID) {
 	console.log('Fetching naoTimes data');
-	fetch(`https://api.ihateani.me/utang/${disID}?pretty=1`)
+	fetch(`https://utang.naoti.me/${disID}?pretty=true`)
 	.then(nT_resolve_status)
 	.then(nT_json_data)
 	.then(function(nT_data) {
