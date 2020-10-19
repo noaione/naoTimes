@@ -53,14 +53,18 @@ function naoTimesProcess(disID) {
 				loading_elem.parentNode.removeChild(loading_elem);
 				return 0;
 			}
+			let ordered_season_state = {};
+			Object.keys(json_data).sort().reverse().forEach(function(key) {
+				ordered_season_state[key] = json_data[key];
+			});
 			console.log("Parsing naoTimes data");
-			for (let [season_name, season_data] of Object.entries(json_data)) {
+			for (let [_, season_data] of Object.entries(ordered_season_state)) {
 				var h2_node = document.createElement("h2");
 				h2_node.classList.add("naotimes-seasonal");
-				h2_node.appendChild(document.createTextNode(season_name));
+				h2_node.appendChild(document.createTextNode(season_data["name"]));
 				let added_count = 0;
-				let to_append_divs = []
-				season_data.forEach(function (item) {
+				let to_append_divs = [];
+				season_data["data"].forEach(function (item) {
 					let anime_title = item["title"];
 					var statuses = item["status"];
 					var current_stat = [];
