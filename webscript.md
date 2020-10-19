@@ -12,7 +12,7 @@ Menghubungkan progress garapan dari database bot ke website.
 1. Selipkan snippet html berikut:
     ```html
     <div id='naotimes' class="progress-wrapper">
-        <script type="text/javascript" src="https://naotimes.n4o.xyz/assets/js/naoTimes.js"></script>
+        <script type="text/javascript" src="https://naoti.me/assets/js/naoTimes.js"></script>
         <script type="text/javascript">
             naoTimesProcess("MASUKAN ID SERVER DISCORD DI SINI"); // Ubah line ini
         </script>
