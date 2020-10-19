@@ -30,6 +30,7 @@ Menghubungkan progress garapan dari database bot ke website.
     ```
 2. Kustomisasi dengan css, listnya ada:
     - **naotimes-header**: teks header dengan tulisan `Status Garapan`
+    - **naotimes-seasonal**: teks header musim
     - **naotimes-animetitle**: bagian judul garapan/anime
     - **naotimes-animeprogress**: bagian progress tiap garapan/anime
 
