@@ -6,7 +6,7 @@
 
 > Bot berbahasa Indonesia untuk membantu tracking garapan fansubber.
 
-[Invite](/invite)
+[Invite](https://naoti.me/invite)
 [Dokumentasi](#mulai-dari-sini)
 
 ![color](#282828)
