@@ -40,16 +40,16 @@ Setiap command support pagination agar bisa melihat berbagai macam hasil dengan 
 ### Dalam .gif
 
 ##### !anime<br> {docsify-ignore}
-![anime](http://p.ihateani.me/mP9tzqh0.gif)
+![anime](https://p.ihateani.me/iglmwouy.gif)
 
 ##### !manga<br> {docsify-ignore}
-![manga](http://p.ihateani.me/cIJnG4TQ.gif)
+![manga](https://p.ihateani.me/cqiojhjw.gif)
 
 ##### !tayang<br> {docsify-ignore}
-![tayang](https://p.ihateani.me/Yv2xxAwC.gif)
+![tayang](https://p.ihateani.me/xtwdutub.gif)
 
 ##### !vn<br> {docsify-ignore}
-![vn](https://p.ihateani.me/f6773QQ0.gif)
+![vn](https://p.ihateani.me/lymwhknh.gif)
 
 ##### !randomvn<br> {docsify-ignore}
-![randomvn](https://p.ihateani.me/zr75bYGR.gif)
+![randomvn](https://p.ihateani.me/iowfrccs.gif)
