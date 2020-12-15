@@ -4,7 +4,7 @@
 Lanjutkan secara hati-hati
 
 Perintah ini membutuhkan channel/kanal yang telah ditandai sebagai NSFW.<br>
-![NSFW](https://p.ihateani.me/RWmGZQRg.png)
+![NSFW](https://p.ihateani.me/kpxflmej.png)
 
 ## Perintah
 
@@ -32,13 +32,13 @@ Gunakan `!nh baca` atau klik react :book: sebelum mengunduh untuk mempercepat pr
 ## Dalam .gif
 
 ##### !nh cari<br> {docsify-ignore}
-![nh cari](https://p.ihateani.me/7rywc805.gif)
+![nh cari](https://p.ihateani.me/pzrhltet.gif)
 
 ##### !nh info<br> {docsify-ignore}
-![nh info](http://p.ihateani.me/KsEuzJOM.gif)
+![nh info](https://p.ihateani.me/yranbctf.gif)
 
 ##### !nh baca<br> {docsify-ignore}
-![nh baca](http://p.ihateani.me/kLWTmHVO.gif)
+![nh baca](https://p.ihateani.me/lknxysak.gif)
 
 #### !nh unduh<br> {docsify-ignore}
-![nh unduh](https://p.ihateani.me/lHZSq0tK.gif)
+![nh unduh](https://p.ihateani.me/cdfmbpju.gif)
