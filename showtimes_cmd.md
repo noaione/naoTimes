@@ -88,35 +88,35 @@ Maka tulis <strong>jumlahnya 4</strong>
 #### Pengguna
 
 ##### !tagih<br> {docsify-ignore}
-![tagih](https://p.ihateani.me/NLu8jpFr.gif)
+![tagih](https://p.ihateani.me/sicktytu.gif)
+
+##### !jadwal<br> {docsify-ignore}
+![jadwal](https://p.ihateani.me/swbfwhls.gif)
 
 ##### !staff<br> {docsify-ignore}
-![staff](https://p.ihateani.me/X9TppU1y.gif)
-
-##### !staff<br> {docsify-ignore}
-![staff](http://p.ihateani.me/z7O78goi.gif)
+![staff](https://p.ihateani.me/hjzkoxuw.gif)
 
 #### Staff
 
 ##### !beres<br> {docsify-ignore}
-![beres](https://p.ihateani.me/ZcAtLsiO.gif)
+![beres](https://p.ihateani.me/rodtjtfv.gif)
 
 ##### !gakjadi<br> {docsify-ignore}
-![gakjadi](https://p.ihateani.me/gjCfsFpA.gif)
+![gakjadi](https://p.ihateani.me/vzeaykii.gif)
 
 ##### !tandakan {docsify-ignore}
-![tandakan](https://p.ihateani.me/eOVoUfoD.gif)
+![tandakan](https://p.ihateani.me/epvlcgyr.gif)
 
 ##### !rilis | !rilis batch | !rilis semua<br> {docsify-ignore}
-![rilis](http://p.ihateani.me/OyNzFpoL.gif)
+![rilis](https://p.ihateani.me/tdiyikja.gif)
 
 #### Admin
 
 ##### !tambahutang<br> {docsify-ignore}
-![tambahutang](https://p.ihateani.me/ifQMCsOt.gif)
+![tambahutang](https://p.ihateani.me/ysnjlvfl.gif)
 
 ##### !ubahdata<br> {docsify-ignore}
-![ubahdata](http://p.ihateani.me/0V0wbuFu.gif)
+![ubahdata](https://p.ihateani.me/qbjpsbok.gif)
 
 ## Perintah Alias
 
@@ -129,13 +129,13 @@ Maka tulis <strong>jumlahnya 4</strong>
 ### Dalam .gif
 
 ##### !alias<br> {docsify-ignore}
-![alias](https://p.ihateani.me/iAvg2Kom.gif)
+![alias](https://p.ihateani.me/cvvshlcy.gif)
 
 ##### !alias list<br> {docsify-ignore}
-![alias list](https://p.ihateani.me/tEqbYc0Y.gif)
+![alias list](https://p.ihateani.me/opfcmfnz.gif)
 
 ##### !alias hapus<br> {docsify-ignore}
-![alias hapus](http://p.ihateani.me/BROMxMzu.gif)
+![alias hapus](https://p.ihateani.me/hbpnbafw.gif)
 
 ## Perintah Kolaborasi
 
@@ -172,13 +172,13 @@ Jika terjadi kesalahan dan lain sebagainya.
 ### Dalam .gif
 
 ##### !kolaborasi dengan | !kolaborasi konfirmasi<br> {docsify-ignore}
-![kolaborasi dengan dan konfirmasi](https://puu.sh/DMMCC/545054a8a4.gif)
+![kolaborasi dengan dan konfirmasi](https://p.ihateani.me/bkmjftha.gif)
 
 ##### !kolaborasi putus<br> {docsify-ignore}
-![kolaborasi putus](https://puu.sh/DMNol/32052d20e0.gif)
+![kolaborasi putus](https://p.ihateani.me/xihrjfbw.gif)
 
 ##### !kolaborasi batalkan<br> {docsify-ignore}
-![kolaborasi batalkan](https://puu.sh/DMNtB/29f0d20016.gif)
+![kolaborasi batalkan](https://p.ihateani.me/vxxwzefe.gif)
 
 ## Perintah Bot Owner (Admin) :id=perintah-owner
 
