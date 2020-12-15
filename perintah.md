@@ -11,6 +11,6 @@ Bot naoTimes memiliki 11 cogs/module, yaitu:
 - [PerpusIndo](perpusnyaa_cmd.md#perpusindo)
 - [Nyaa.si](perpusnyaa_cmd.md#nyaa)
 - [Sistem Voting](vote_cmd.md)
-- [Lain-Lain](etcetera_cmd.md)
+- [Pencari Saus](saus_cmd.md)
 
 Semua command harus diawali dengan `!` contohnya adalah `!help`

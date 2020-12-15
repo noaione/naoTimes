@@ -8,7 +8,7 @@
 	- [Web Scrapping](parser_cmd.md)
 	- [PerpusIndo dan Nyaa.si](perpusnyaa_cmd.md)
 	- [Sistem Voting](vote_cmd.md)
-	- [Lain-Lain](etcetera_cmd.md)
+	- [Pencari Saus](vote_cmd.md)
 - [Menyiapkan Sendiri Bot](setup.md)
 - [Web Script](webscript.md)
 - [Perubahan](changelog.md)

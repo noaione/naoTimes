@@ -1,2 +1,0 @@
-# Etcetera (Lain-Lain)
-WIP
